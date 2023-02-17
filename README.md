@@ -1,6 +1,6 @@
 # CS-GY-6373-PL
 
-Course Repository for CS GY 6373: Programming Languages
+Course Repository for CS-GY 6373: Programming Languages
 
 ### Assignment 1
 
